@@ -46,6 +46,8 @@ The Incentive Distribution Pool contains a basket of whitelisted currencies and 
 
 The pool is distributed to the below set of participants. The portions of the pool allocated to each participant is determined by the network through on-chain governance.
 
+![IDP](https://raw.githubusercontent.com/gosuri/akt20/main/akt20.drawio.svg)
+
 ### Provider Subsidies
 
 Early on in the network's lifecycle, the network will need to subsidize providers to ensure the network has enough computing power to offer attractive prices to tenants.
